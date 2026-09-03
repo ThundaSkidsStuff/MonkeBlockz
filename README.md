@@ -1,4 +1,4 @@
-#a mod uesd to unlock all monke blocks kits / packs serversidedly
+# a mod uesd to unlock all monke blocks kits / packs serversidedly
 
 requires masterclient.
 
